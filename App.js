@@ -2,6 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 //안녕
 // 재영
 //안녕 난 재영
+//제발!
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
