@@ -3,6 +3,7 @@ import { StatusBar } from 'expo-status-bar';
 // 재영
 //안녕 난 재영
 //제발!
+//마지막이었으면 좋겠다 현영아
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
